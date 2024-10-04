@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ws101_react_landingpage/static/css/main.c53d9c65.css",
+    "main.css": "/ws101_react_landingpage/static/css/main.596a6d6b.css",
     "main.js": "/ws101_react_landingpage/static/js/main.7e5ce0d5.js",
     "static/js/453.ed3810f9.chunk.js": "/ws101_react_landingpage/static/js/453.ed3810f9.chunk.js",
     "static/media/coding-image1.png": "/ws101_react_landingpage/static/media/coding-image1.378f19575b9530f88eec.png",
@@ -10,12 +10,12 @@
     "static/media/icon3.svg": "/ws101_react_landingpage/static/media/icon3.30adbb59f416a4d66bfdffac5cbb51e8.svg",
     "static/media/icon1.svg": "/ws101_react_landingpage/static/media/icon1.4c9217842c6455d090b87f426a366275.svg",
     "index.html": "/ws101_react_landingpage/index.html",
-    "main.c53d9c65.css.map": "/ws101_react_landingpage/static/css/main.c53d9c65.css.map",
+    "main.596a6d6b.css.map": "/ws101_react_landingpage/static/css/main.596a6d6b.css.map",
     "main.7e5ce0d5.js.map": "/ws101_react_landingpage/static/js/main.7e5ce0d5.js.map",
     "453.ed3810f9.chunk.js.map": "/ws101_react_landingpage/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c53d9c65.css",
+    "static/css/main.596a6d6b.css",
     "static/js/main.7e5ce0d5.js"
   ]
 }
